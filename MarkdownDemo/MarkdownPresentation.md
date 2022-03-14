@@ -19,10 +19,13 @@
     1. Central repo, a single source of truth shared with the team
     2. More easily update or make changes
     3. Collaberation - How many people are sitting on piles of SQL or powershell scripts that they haven't shared?
-    4. The documentation lives in the same place as the scripts and code. 
+    4. The documentation lives in the same place as the scripts and code.
+    5. I believe documentation of SOP's is a great first step towards creating culture around IaC. 
 
 ## More context
 
     1. This assumes that you have access to these repos from inside and outside the environment. 
     2. This also assumes that we may need to have a set of scripts that are pushed to each server as the scripts get improved. 
     3. This assumes that our servers are not our pets and are more like cattle or crops.
+
+![Markdown-Scripts-Diagram](RSI-Markdown\MarkdownDemo\Markdown-Scripts-Diagram.drawio.png)
