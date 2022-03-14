@@ -28,4 +28,4 @@
     2. This also assumes that we may need to have a set of scripts that are pushed to each server as the scripts get improved. 
     3. This assumes that our servers are not our pets and are more like cattle or crops.
 
-![Markdown-Scripts-Diagram](RSI-Markdown\MarkdownDemo\Markdown-Scripts-Diagram.drawio.png)
+![Markdown-Scripts-Diagram](MarkdownDemo/Markdown-Scripts-Diagram.drawio.png)
